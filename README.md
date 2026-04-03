@@ -68,7 +68,6 @@ Hi, I'm Kayan Shah, a student engineer and programmer with experience in Python,
 - CREST Awards: Silver (Individual), Bronze (Team) – 2025  
 - Greenpower Portfolio Award: 1st Place (Regional) – 2025  
 - “Does AI Have Bias?” Essay Competition: Merit with Distinction elements – 2025  
-- Duke of Edinburgh Award: Bronze (2024–25), Silver (2025–26)  
 - Make:Able DT Challenge: World Finalist – 2024
 - Co-built #1 UK VEX Virtual Robot program (Middle School and High School) also ranked #11 Globally (Middle School) – 2026  
   
