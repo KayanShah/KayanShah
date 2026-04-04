@@ -69,13 +69,18 @@ Hi, I'm Kayan Shah, a student engineer and programmer with experience in Python,
 - Greenpower Portfolio Award: 1st Place (Regional) – 2025  
 - “Does AI Have Bias?” Essay Competition: Merit with Distinction elements – 2025  
 - Make:Able DT Challenge: World Finalist – 2024
-- Co-built #1 UK VEX Virtual Robot program (Middle School and High School) also ranked #11 Globally (Middle School) – 2026  
-  
+- Co-built #1 UK VEX Virtual Robot program (Middle School and High School) also ranked #11 Globally (Middle School) – 2026
+
+### Team Websites
+
+- HABS PowerStrike (Greenpower): [habspowerstrike.odoo.com](https://habspowerstrike.odoo.com/)
+- Habs Gliders 34071B (VEX V5): [habs-gliders-34071b.vercel.app](https://habs-gliders-34071b.vercel.app/)
 
 ---
 
 
-A huge thank you to Priyanshu (priyanshuthakare) for the inspiration behind this!
+
+A huge thank you to Priyanshu (priyanshuthakare) for the inspiration behind this README!
 
 [Priyanshu's GitHub](https://github.com/priyanshuthakare)
 
