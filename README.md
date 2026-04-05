@@ -4,6 +4,7 @@
 <!-- https://shields.io/badges  -->
 <a href="mailto:kayan.shah@icloud.com">
   <img align="left" alt="Kayan's Email Address" width="22px" src="https://img.icons8.com/?size=100&id=l8GURTKU12XE&format=png&color=000000" />
+<img src="https://komarev.com/ghpvc/?username=PanshulVempalli&label=Profile+Views&color=0F3460&style=flat" alt="Visitor Count" /></td>
 </a>
 <br />
 
@@ -11,9 +12,15 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KayanShah&theme=radical" height="180" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KayanShah&theme=radical" height="180" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=KayanShah&theme=nord&hide_border=true&card_width=450" height="195" alt="Streak" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark" height="195" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KayanShah&theme=nord_dark" height="195" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0" height="195" alt="Productive Time" />
 </p>
 
 
