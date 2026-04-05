@@ -4,7 +4,7 @@
 <!-- https://shields.io/badges  -->
 <a href="mailto:kayan.shah@icloud.com">
   <img align="left" alt="Kayan's Email Address" width="22px" src="https://img.icons8.com/?size=100&id=l8GURTKU12XE&format=png&color=000000" />
-<img src="https://komarev.com/ghpvc/?username=PanshulVempalli&label=Profile+Views&color=0F3460&style=flat" alt="Visitor Count" /></td>
+<img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=0F3460&style=flat" alt="Visitor Count" /></td>
 </a>
 <br />
 
@@ -30,6 +30,8 @@
 
 <p>
 Hi, I'm Kayan Shah, a student engineer and programmer with experience in Python, Swift, Arduino, CAD, robotics, and electronics. I'm the founder and team leader of a Greenpower electric car team, HABS PowerStrike, reaching the International Finals in 2025, and leader of a VEX Robotics team, 34071B Habs Gliders, that is heading to the World Championships in Missouri, 2026. I am passionate about AI, making tech more accessible for everyone, engineering, and practical problem-solving.
+
+🤝 Shoutout to <a href="https://github.com/PanshulVempalli"><strong>@PanshulVempalli</strong></a> — go check out his profile- I do loads of projects with him!
 <br/>
 </p>
 
@@ -89,7 +91,8 @@ Hi, I'm Kayan Shah, a student engineer and programmer with experience in Python,
 - Greenpower Portfolio Award: 1st Place (Regional) – 2025  
 - “Does AI Have Bias?” Essay Competition: Merit with Distinction elements – 2025  
 - Make:Able DT Challenge: World Finalist – 2024
-- Co-built #1 UK VEX Virtual Robot program (Middle School and High School) also ranked #11 Globally (Middle School) – 2026
+- Co-built #1 UK VEX Virtual Robot program (Middle School and High School) also ranked #11 Globally (Middle School) – 2026 (Shoutout to <a href="https://github.com/PanshulVempalli"><strong>@PanshulVempalli</strong></a> — go check out his profile!)
+
 
 ### Team Websites
 
