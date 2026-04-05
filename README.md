@@ -2,10 +2,20 @@
 
 <!-- https://readme-typing-svg.demolab.com/demo/?duration=4000&color=12094D&lines=Hi+there!+I%27m+Kayan  -->
 <!-- https://shields.io/badges  -->
-<br/>
 <a href="mailto:kayan.shah@icloud.com">
   <img align="left" alt="Kayan's Email Address" width="22px" src="https://img.icons8.com/?size=100&id=l8GURTKU12XE&format=png&color=000000" />
 </a>
+<br />
+
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KayanShah&theme=radical" height="180" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KayanShah&theme=radical" height="180" alt="Top Languages" />
+</p>
+
 
 
 <br />
@@ -52,9 +62,9 @@ Hi, I'm Kayan Shah, a student engineer and programmer with experience in Python,
 #### Gaming & Fun
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat-square&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![PlayStation](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white) ![Mac](https://img.shields.io/badge/Mac-000000?style=flat-square&logo=apple&logoColor=white)
 
----
+<!-- --- -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KayanShah&" alt="KayanShah" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KayanShah&" alt="KayanShah" /></p> -->
 
 ---
 ### Leadership Experience
