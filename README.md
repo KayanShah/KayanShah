@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=4000&pause=1000&color=12094D&width=435&lines=Hi+there!+I'm+Kayan;Student+based+in+London;Welcome+to+my+world+of+coding!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3500&pause=1000&color=12094D&width=520&height=44&lines=Hi+there!+I'm+Kayan;Student+based+in+London;Welcome+to+my+world+of+coding!)](https://git.io/typing-svg)
 
 <!-- https://readme-typing-svg.demolab.com/demo/?duration=4000&color=12094D&lines=Hi+there!+I%27m+Kayan  -->
 <!-- https://shields.io/badges  -->
@@ -54,6 +54,9 @@ Hi, I'm Kayan Shah, a student engineer and programmer with experience in Python,
 
 ---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KayanShah&" alt="KayanShah" /></p>
+
+---
 ### Leadership Experience
 
 - Founder and lead engineer of the Greenpower Electric Car Club, taking the team to International Finals  
@@ -77,6 +80,10 @@ Hi, I'm Kayan Shah, a student engineer and programmer with experience in Python,
 - Habs Gliders 34071B (VEX V5): [habs-gliders-34071b.vercel.app](https://habs-gliders-34071b.vercel.app/)
 
 ---
+
+
+
+
 
 
 
