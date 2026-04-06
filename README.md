@@ -85,7 +85,7 @@ Always happy to talk and discuss- drop me an email and lets connect!
 
 <br/>
 
-### 🏆 Honors & Awards
+### Honors & Awards
 
 | Status | Achievement | Level |
 | :--- | :--- | :--- |
@@ -94,7 +94,7 @@ Always happy to talk and discuss- drop me an email and lets connect!
 | 🏎️ | **Greenpower International Finalist** (2025) | **Global** |
 | 📜 | **CREST Silver & Bronze Awards** (Individual & Team) | **National** |
 | ✍️ | **"Does AI Have Bias?" Essay** — *Merit with Distinction* | **Academic** |
-| ✍️ | **"Interest in Technology and Need Analysis for the Adoption of Chatbots by the Elderly" Essay** — *CREST Silver* | **Academic** |
+| 💬 | **"Interest in Technology and Need Analysis for the Adoption of Chatbots by the Elderly" Essay** — *CREST Silver* | **Academic** |
 | 🦾 | **Make:Able DT Challenge World Finalist** | **Global** |
 
 <br/>
