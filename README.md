@@ -9,6 +9,7 @@
 <br/>
 
 ---
+<!-- Theme: NORD/NORD DARK -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=KayanShah&theme=nord&hide_border=true&card_width=320" width="23%" alt="Streak" />
@@ -16,6 +17,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KayanShah&theme=nord_dark" width="24%" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0" width="24%" alt="Productive Time" />
 </p>
+
 
 <br />
 
