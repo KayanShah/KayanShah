@@ -132,10 +132,11 @@ Check out my public repos below (many more to come!)
 
 
 
+<!-- A huge thank you to Priyanshu (priyanshuthakare) for the inspiration behind this README! -->
 
-A huge thank you to Priyanshu (priyanshuthakare) for the inspiration behind this README!
 
-[Priyanshu's GitHub](https://github.com/priyanshuthakare)
+
+<!-- [Priyanshu's GitHub](https://github.com/priyanshuthakare) -->
 
 
 
