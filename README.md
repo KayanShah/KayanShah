@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3500&pause=1000&color=12094D&width=520&height=44&lines=Hi+there!+I'm+Kayan;Student+based+in+London;Welcome+to+my+world+of+coding!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3500&pause=1000&color=12094D&width=520&height=44&lines=Hi+there!+I'm+Kayan;Student+based+in+London;Welcome+to+my+world+of+coding!)](https://git.io/typing-svg) 
 
 <!-- Contact Icons -->
 <a href="mailto:kayan.shah@icloud.com">
