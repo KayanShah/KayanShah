@@ -22,8 +22,7 @@
 <p>
 Hi, I'm Kayan Shah, a student engineer and programmer with experience in Python, Swift, Arduino, CAD, robotics, and electronics. I'm the founder and team leader of a Greenpower electric car team, HABS PowerStrike, reaching the International Finals in 2025, and leader of a VEX Robotics team, 34071B Habs Gliders, that is heading to the World Championships in Missouri, 2026. I am passionate about AI, making tech more accessible for everyone, engineering, and practical problem-solving.
 
-🤝 Shoutout to <a href="https://github.com/PanshulVempalli"><strong>@PanshulVempalli</strong></a> — go check out his profile! I do loads of projects with him!
-
+Always happy to talk and discuss- drop me an email and lets connect!
 <br/>
 </p>
 
@@ -52,6 +51,7 @@ Hi, I'm Kayan Shah, a student engineer and programmer with experience in Python,
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KayanShah&" alt="KayanShah" /></p> -->
 
 ---
+🤝 Shoutout to <a href="https://github.com/PanshulVempalli"><strong>@PanshulVempalli</strong></a> — go check out his profile! I do loads of projects with him!
 
 ### What I'm Exploring & Building
 
@@ -118,6 +118,10 @@ Hi, I'm Kayan Shah, a student engineer and programmer with experience in Python,
     <img src="https://img.shields.io/badge/View%20Project-%E2%86%92-0F3460?style=for-the-badge&color=0F3460" />
   </a>
 </p>
+
+Thank you for the support!
+
+Check out my public repos below (many more to come!)
 
 ---
 
