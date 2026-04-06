@@ -24,7 +24,7 @@
 <p>
 Hi, I'm Kayan Shah, a student engineer and programmer with experience in Python, Swift, Arduino, CAD, robotics, and electronics. I'm the founder and team leader of a Greenpower electric car team, HABS PowerStrike, reaching the International Finals in 2025, and leader of a VEX Robotics team, 34071B Habs Gliders, that is heading to the World Championships in Missouri, 2026. I am passionate about AI, making tech more accessible for everyone, engineering, and practical problem-solving.
 
-Always happy to talk and discuss- drop me an email and lets connect!
+Always happy to talk and discuss- drop me an email and let's connect!
 <br/>
 </p>
 
