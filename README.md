@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://githubcard.com/KayanShah.svg?d=TSbmwzw5">
-    <img src="https://githubcard.com/KayanShah.svg?d=TSbmwzw5" alt="GitHub Streak" height="100px" />
+    <img src="https://githubcard.com/KayanShah.svg?d=TSbmwzw5" alt="GitHub Streak" height="97px" />
   </a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark" width="20%" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark" width="20%" alt="Top Languages" />
