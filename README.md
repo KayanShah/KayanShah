@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=KayanShah&theme=nord" alt="GitHub Streak" height="118px" />
+    <img src="https://streak-stats.demolab.com?user=KayanShah&theme=nord" alt="GitHub Streak" height="110px" />
   </a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark" width="20%" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KayanShah&theme=nord_dark" width="20%" alt="Top Languages" />
