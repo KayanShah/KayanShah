@@ -37,7 +37,7 @@ Always happy to talk and discuss- drop me an email and let's connect!
 
 **CAD** ![Onshape](https://img.shields.io/badge/Onshape-64bc4f?style=flat-square&logo=onshape&logoColor=white) ![Techsoft 2D Design](https://img.shields.io/badge/Techsoft%202D%20Design-4B9CD3?style=flat-square&logo=appveyor&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=flat-square&logo=autodesk&logoColor=white)
 
-**Cloud & Hosting** ![Odoo](https://img.shields.io/badge/Odoo-7A92B2?style=flat-square&logo=odoo&logoColor=white) ![Loveable](https://img.shields.io/badge/Loveable-F24E6A?style=flat-square&logo=heart&logoColor=white)
+**Cloud & Hosting** ![Odoo](https://img.shields.io/badge/Odoo-7A92B2?style=flat-square&logo=odoo&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Loveable](https://img.shields.io/badge/Loveable-F24E6A?style=flat-square&logo=heart&logoColor=white) 
 
 **AI & APIs** ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-F5F5F5?style=flat-square&logo=openai&logoColor=white) ![NewsAPI](https://img.shields.io/badge/NewsAPI-FF9900?style=flat-square&logo=news&logoColor=white) ![Yahoo Finance API](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=flat-square&logo=yahoo&logoColor=white)
 
