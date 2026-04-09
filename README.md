@@ -12,7 +12,7 @@
 
 > *Founder. Team Leader. Engineer. Building things that compete on a world stage.*
 
-I'm **Kayan Shah** - a student engineer and programmer based in London. I build software and hardware that makes a real-world impact: from Python tools and Swift apps, to **international electric cars and world championship-level robots**. Currently leading teams to and heading to the **VEX World Championships 2026**, fresh from the **Greenpower International Finals 2025**.
+I'm **Kayan Shah** - a student engineer and programmer based in London. I build software and hardware that makes a real-world impact: from Python tools and Swift apps, to **international electric cars and world championship-level robots**. Currently leading teams heading to the **VEX World Championships 2026**, fresh from the **Greenpower International Finals 2025**.
 
 ---
 
