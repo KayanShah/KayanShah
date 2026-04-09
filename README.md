@@ -19,8 +19,9 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://githubcard.com/KayanShah.svg?d=TSbmwzw5" alt="GitHub Streak" height="100px" />
+  <img src="https://githubcard.com/KayanShah.svg?d=TSbmwzw5" alt="GitHub Streak" height="99.4px" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark" width="20%" alt="Stats" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark" width="20%" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0" width="20%" alt="Productive Time" />
 </p>
@@ -84,6 +85,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 ![Grok](https://img.shields.io/badge/Grok-111111?style=flat-square&logo=xdotai&logoColor=white)
 ![NewsAPI](https://img.shields.io/badge/NewsAPI-FF9900?style=flat-square&logoColor=white)
 ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=flat-square&logo=yahoo&logoColor=white)
+![Suno](https://img.shields.io/badge/Suno-000000?style=flat-square&logo=suno&logoColor=white)
  
 **Cloud & Hosting**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
