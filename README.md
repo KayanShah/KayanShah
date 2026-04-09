@@ -49,8 +49,9 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 | 🤖 | **VEX World Championship Qualifier** — Team 34071B (St. Louis, 2026) | 🌍 Global |
 | 🏎️ | **Greenpower International Finalist** (2025) | 🌍 Global |
 | 🦾 | **Make:Able DT Challenge World Finalist** | 🌍 Global |
-| 💻 | **#1 UK VEX Virtual Robot Program** (MS/HS) with [**@PanshulVempalli**](https://github.com/PanshulVempalli) · **#11 Globally** (MS) | 🇬🇧 National |
+| 💻 | **#1 UK VEX Virtual Robot Program** (MS/HS) with [**@PanshulVempalli**](https://github.com/PanshulVempalli) · **#11 Globally** (MS) | 🇬🇧 National and 🌍 Global |
 | 📜 | **CREST Silver & Bronze Awards** (Individual & Team) | 🇬🇧 National |
+| 🦾 | **VEX UK Nationals Qualifier** — Team 34071B (Telford, 2026) | 🇬🇧 National |
 | 🥇 | **Greenpower Portfolio Award** — 1st Place (Regional) | 🇬🇧 Regional |
 | 🏅 | **VEX Judges Award** — 1st Place (Regional) | 🇬🇧 Regional |
 | ✍️ | **"Does AI Have Bias?" Essay** — Merit with Distinction | 🎓 Academic |
