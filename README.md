@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=0F3460&width=560&height=44&lines=Hi+there!+I'm+Kayan+👋;Builder.+Leader.+Engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <a href="mailto:kayan.shah@icloud.com">
-  <img src="https://img.shields.io/badge/Email-kayan.shah%40icloud.com-0F3460?style=flat-square&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0F3460?style=flat-square&logo=icloud&logoColor=white" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=0F3460&style=flat-square" alt="Visitor Count" />
@@ -49,7 +49,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 | 🦾 | **Make:Able DT Challenge World Finalist** | 🌍 Global |
 | 💻 | **#1 UK VEX Virtual Robot Program** (MS/HS) with [**@PanshulVempalli**](https://github.com/PanshulVempalli) · **#11 Globally** (MS) | 🇬🇧 National |
 | 📜 | **CREST Silver & Bronze Awards** (Individual & Team) | 🇬🇧 National |
-| 🏅 | **Greenpower Portfolio Award** — 1st Place (Regional) | 🏫 Regional |
+| 🏅 | **Greenpower Portfolio Award** — 1st Place (Regional) | 🇬🇧 Regional |
 | ✍️ | **"Does AI Have Bias?" Essay** — Merit with Distinction | 🎓 Academic |
 
 ---
@@ -72,7 +72,6 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 ![Laser Cutting](https://img.shields.io/badge/Laser%20Cutting-FF3C00?style=flat-square&logoColor=white)
 ![Electronics](https://img.shields.io/badge/Electronics-F0DB4F?style=flat-square&logoColor=white)
 ![Soldering](https://img.shields.io/badge/Soldering-silver?style=flat-square&logoColor=white)
-![PCB Design](https://img.shields.io/badge/PCB%20Design-1DA462?style=flat-square&logoColor=white)
  
 **AI & APIs**
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
@@ -86,7 +85,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 **Cloud & Hosting**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-7A92B2?style=flat-square&logo=odoo&logoColor=white)
-![Loveable](https://img.shields.io/badge/Loveable-F24E6A?style=flat-square&logo=heart&logoColor=white)
+![Lovable](https://img.shields.io/badge/Loveable-F24E6A?style=flat-square&logo=heart&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)
  
 **Design & Creative**
