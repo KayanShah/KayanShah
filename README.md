@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=0F3460&width=560&height=44&lines=Hi+there!+I'm+Kayan+👋;Builder.+Leader.+Engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<a href="mailto:kayan.shah@icloud.com">
-  <img src="https://img.shields.io/badge/Email-0F3460?style=flat-square&logo=icloud&logoColor=white" />
-</a>
-&nbsp;
+
+<p>
 <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=0F3460&style=flat-square" alt="Visitor Count" />
+<a href="mailto:kayan.shah@icloud.com"><img src="https://img.shields.io/badge/Email-0F3460?style=flat-square&logo=icloud&logoColor=white" /></a>
+<a href="mailto:kayan.shah@icloud.com"><img src="https://img.shields.io/badge/Open%20to-Collaborations-0F3460?style=flat-square" /></a>
+
+</p>
 
 ---
 
@@ -118,5 +120,8 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 ---
 
 🤝 Shoutout to [**@PanshulVempalli**](https://github.com/PanshulVempalli) — go check out his profile! I do loads of projects with him!
+
+<a>
+⭐ If something here was useful or you want to connect, a follow or star goes a long way!
 
 *Thanks for visiting - check out my public repos below. Much more to come!*
