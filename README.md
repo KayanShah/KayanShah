@@ -20,7 +20,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 
 <p align="center">
   <!-- <img src="https://githubcard.com/KayanShah.svg?d=TSbmwzw5" alt="GitHub Streak" height="99.4px" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayanShah&theme=nord&hide_border=true" height="118.3px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayanShah&theme=nord&hide_border=true" height="99.4px" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark" width="20%" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark" width="20%" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0" width="20%" alt="Productive Time" />
