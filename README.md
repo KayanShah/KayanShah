@@ -68,6 +68,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
  
 **Engineering & CAD**
 ![Onshape](https://img.shields.io/badge/Onshape-64bc4f?style=flat-square&logo=onshape&logoColor=white)
