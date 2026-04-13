@@ -134,7 +134,6 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 
 ---
 
-🤝 Shoutout to [**@PanshulVempalli**](https://github.com/PanshulVempalli) — go check out his profile! I do loads of projects with him!
 
 🤝 Shoutout to [**@PanshulVempalli**](https://github.com/PanshulVempalli) — go check out his profile! I do loads of projects with him!
 
