@@ -124,6 +124,18 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 
 ---
 
+## 2026 Goals
+
+- [] Reach **1,000 GitHub followers**
+- [ ] Continue contributing to **open source**
+- [ ] Reach **Greenpower International Finals 2026** — back-to-back
+- [ ] Ship a public project with **50+ stars**
+- [ ] Win a **judged award at VEX World Championships**
+
+---
+
+🤝 Shoutout to [**@PanshulVempalli**](https://github.com/PanshulVempalli) — go check out his profile! I do loads of projects with him!
+
 🤝 Shoutout to [**@PanshulVempalli**](https://github.com/PanshulVempalli) — go check out his profile! I do loads of projects with him!
 
 <a>
