@@ -147,3 +147,23 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 ⭐ If something here was useful or you want to connect, a follow or star goes a long way!
 
 *Thanks for visiting - check out my public repos below. Much more to come!*
+
+
+
+
+<!-- ************************
+
+COLLAPSIBLE SECTION TEMPLATE
+<details>
+  <summary>Click to expand</summary>
+  
+  Content goes here — text, images, badges, anything.
+  
+</details>
+
+To make it expanded by default, use:
+<details open>
+  <summary>Expanded by default</summary>
+  This is visible immediately.
+</details>
+-->
