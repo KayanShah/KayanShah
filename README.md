@@ -106,7 +106,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 ![Mac](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
 ---
 
