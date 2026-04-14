@@ -82,9 +82,9 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 ![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?style=flat-square&logo=bambulab&logoColor=white)
 
 **AI & APIs**
+![Anthropic](https://img.shields.io/badge/Anthropic-3C3C3C?style=flat-square&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-F5F5F5?style=flat-square&logo=openai&logoColor=000000)
-![Claude](https://img.shields.io/badge/Claude-3C3C3C?style=flat-square&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-111111?style=flat-square&logo=xdotai&logoColor=white)
 ![NewsAPI](https://img.shields.io/badge/NewsAPI-FF9900?style=flat-square&logoColor=white)
