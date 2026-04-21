@@ -149,8 +149,22 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 *Thanks for visiting - check out my public repos below. Much more to come!*
 
 
+<p align="center">
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=KayanShah&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area=true&area_color=61778f&hide_border=true" width="50%"/>
+</p>
+</p>
 
 
+
+
+<details>
+  <summary><i style="color:#2e3440">Want to use any of the dynamic tools in your README?</i></summary>
+  
+  - 🔥 [Streak Stats](https://github-readme-streak-stats-kayan.vercel.app) — GitHub streak card
+  - 📊 [Profile Summary Cards](https://github-profile-summary-cards-kayan.vercel.app) — Stats, languages & activity cards
+  - 📈 [Activity Graph](https://github-readme-activity-graphkayan.vercel.app) — Contribution activity graph
+
+</details>
 <!-- ************************
 
 COLLAPSIBLE SECTION TEMPLATE
