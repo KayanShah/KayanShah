@@ -4,7 +4,11 @@
 <p>
 <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=0F3460&style=flat-square" alt="Visitor Count" />
 <a href="mailto:kayan.shah@icloud.com"><img src="https://img.shields.io/badge/Email-0F3460?style=flat-square&logo=icloud&logoColor=white" /></a>
-<a href="mailto:kayan.shah@icloud.com"><img src="https://img.shields.io/badge/Open%20to-Collaborations-0F3460?style=flat-square" /></a>
+<a href="mailto:kayan.shah@icloud.com">
+  <img src="https://img.shields.io/badge/Thank%20you%20for-100%20followers-0F3460?style=flat-square" />
+
+
+
 
 </p>
 
