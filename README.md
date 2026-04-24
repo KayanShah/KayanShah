@@ -60,7 +60,9 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 | 🦾 | **VEX UK Nationals Qualifier** — Team 34071B (Telford, 2026) | 🇬🇧 National |
 | 🥇 | **Greenpower Portfolio Award** — 1st Place (Regional) | 🇬🇧 Regional |
 | 🏅 | **VEX Judges Award** — 1st Place (Regional) | 🇬🇧 Regional |
+| 💻 | **HackerRank Certificate** — [View Certificate](https://www.hackerrank.com/certificates/iframe/e128d60ab287) | 🎓 Academic |
 | ✍️ | **"Does AI Have Bias?" Essay** — Merit with Distinction | 🎓 Academic |
+
 
 
 ---
