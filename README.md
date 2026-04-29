@@ -53,6 +53,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 | | Achievement | Scope |
 |:---:|:---|:---:|
 | 🤖 | **VEX World Championship Qualifier** — Team 34071B (St. Louis, 2026) | 🌍 Global |
+| 🏅 | **VEX World Championship Judges Award** — 1st Place (St. Louis, 2026) | 🌍 Global |
 | 🏎️ | **Greenpower International Finalist** (2025) | 🌍 Global |
 | 🏆 | **Make:Able DT Challenge World Finalist** | 🌍 Global |
 | 💻 | **#1 UK VEX Virtual Robot Program** (MS/HS) with [**@PanshulVempalli**](https://github.com/PanshulVempalli) · **#11 Globally** (MS) | 🇬🇧 National and<br>🌍 Global |
@@ -144,7 +145,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 - [ ] Reach **Greenpower International Finals 2026** — back-to-back
 - [ ] Ship a public project with **20+ stars**
 - [ ] Become a **top 256 Github commiter in the UK (Requires 400 followers)** 
-- [x] Win a **judged award at VEX World Championships**
+- [x] Win a **judged award at VEX World Championships** 
 ---
 
 
