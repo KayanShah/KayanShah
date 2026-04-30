@@ -47,13 +47,11 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
   </tr>
 </table>
 
----
-
 ## Honours & Achievements
 | | Achievement | Scope |
 |:---:|:---|:---:|
 | 🤖 | **VEX World Championship Qualifier** — Team 34071B (St. Louis, 2026) | 🌍 Global |
-| 🏅 | **VEX World Championship Judges Award** — 1st Place (St. Louis, 2026) | 🌍 Global |
+| 🎖️ | **VEX World Championship Judges Award** (St. Louis, 2026) | 🌍 Global |
 | 🏎️ | **Greenpower International Finalist** (2025) | 🌍 Global |
 | 🏆 | **Make:Able DT Challenge World Finalist** | 🌍 Global |
 | 💻 | **#1 UK VEX Virtual Robot Program** (MS/HS) with [**@PanshulVempalli**](https://github.com/PanshulVempalli) · **#11 Globally** (MS) | 🇬🇧 National and<br>🌍 Global |
@@ -61,9 +59,8 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 | 🦾 | **VEX UK Nationals Qualifier** — Team 34071B (Telford, 2026) | 🇬🇧 National |
 | 🥇 | **Greenpower Portfolio Award** — 1st Place (Regional) | 🇬🇧 Regional |
 | 🏅 | **VEX Judges Award** — 1st Place (Regional) | 🇬🇧 Regional |
-| 💻 | **HackerRank Certificate** — [View Certificate](https://www.hackerrank.com/certificates/iframe/e128d60ab287) | 🎓 Academic |
+| 📋 | **HackerRank Certificate** — [View Certificate](https://www.hackerrank.com/certificates/iframe/e128d60ab287) | 🎓 Academic |
 | ✍️ | **"Does AI Have Bias?" Essay** — Merit with Distinction | 🎓 Academic |
-
 
 
 ---
