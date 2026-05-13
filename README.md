@@ -160,8 +160,10 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 <p align="center">
   <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=KayanShah&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area=true&area_color=61778f&hide_border=true" width="50%"/>
 </p>
-</p>
 
+<p align="center">
+  <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah" alt="KayanShah's Github chart" width="50%"/>
+</p>
 
 
 
@@ -172,10 +174,10 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
   - 📊 [Profile Summary Cards](https://github-profile-summary-cards-kayan.vercel.app) — Stats, languages & activity cards
   - 📈 [Activity Graph](https://github-readme-activity-graphkayan.vercel.app) — Contribution activity graph
   - 📌 [Project Cards](https://kayan-github-profile-projects-featu.vercel.app) — Pinned repo cards
-
-
+  - 📉 [GitHub Chart API](https://kayan-github-chart-api.onrender.com) — Contribution chart for any colour or theme
 
 </details>
+
 <!-- ************************
 
 COLLAPSIBLE SECTION TEMPLATE
