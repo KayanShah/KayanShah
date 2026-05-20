@@ -139,7 +139,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 - [ ] Continue contributing to **open source**
 - [ ] Reach **Greenpower International Finals 2026** — back-to-back
 - [ ] Ship a public project with **20+ stars**
-- [ ] Become a **top 256 Github commiter in the UK (Requires 400 followers)**
+- [ ] Become a **top 256 Github commiter in the UK (Requires 350 followers)**
 - [x] Win a **judged award at VEX World Championships** *(Won the Judges Award at VEX Worlds 2026)*
 
 
