@@ -4,7 +4,7 @@
 <p>
 <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=0F3460&style=flat-square" alt="Visitor Count" />
 <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-0F3460?style=flat-square&logo=icloud&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Thank%20you%20for%20300%20followers%20%F0%9F%92%99-0F3460?style=flat-square" />
+<img src="https://img.shields.io/badge/Thank%20you%20for%20350%20followers%20%F0%9F%92%99-0F3460?style=flat-square" />
 <img src="https://img.shields.io/badge/New%20goal%3A%20400%20followers-0F3460?style=flat-square" />
 
 
