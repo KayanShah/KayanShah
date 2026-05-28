@@ -4,7 +4,10 @@
 <p>
 <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=0F3460&style=flat-square" alt="Visitor Count" />
 <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-0F3460?style=flat-square&logo=icloud&logoColor=white" /></a>
+  
 <img src="https://gh-follower-badge.vercel.app/api/thank-you" alt="Thank you badge" />
+
+
 <img src="https://img.shields.io/badge/New%20goal%3A%20400%20followers-0F3460?style=flat-square" />
 
 
@@ -29,7 +32,9 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
   <img src="https://github-readme-streak-stats-kayan.vercel.app?user=KayanShah&theme=nord&hide_border=true" height="99.4px" alt="Refresh to load" />
   
   <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark" width="20%" alt="Refresh to load" />
+  
   <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark" width="20%" alt="Refresh to load" />
+  
   <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0" width="20%" alt="Refresh to load" />
 </p>
 
