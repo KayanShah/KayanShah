@@ -10,7 +10,6 @@
 
 <img src="https://gh-follower-badge.vercel.app/api/goal?v=4" alt="Follower goal badge" />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKayanShah)](https://hits.seeyoufarm.com)
 
 </p>
 
