@@ -7,8 +7,7 @@
   
 <img src="https://gh-follower-badge.vercel.app/api/thank-you?v=4" alt="Thank you badge" />
 
-
-<img src="https://img.shields.io/badge/New%20goal%3A%20400%20followers-0F3460?style=flat-square" />
+<img src="https://gh-follower-badge.vercel.app/api/goal?v=2" alt="Follower goal badge" />
 
 
 
