@@ -2,14 +2,14 @@
 
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=0F3460&style=flat-square" alt="Visitor Count" />
-<a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-0F3460?style=flat-square&logo=icloud&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=0F3460&style=flat" alt="Visitor Count" />
+<a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-0F3460?style=flat&logo=icloud&logoColor=white" /></a>
+
+
   
-<img src="https://gh-follower-badge.vercel.app/api/thank-you?v=4" alt="Thank you badge" />
+<img src="https://gh-follower-badge.vercel.app/api/thank-you?v=5" alt="Thank you badge" />
 
-<img src="https://gh-follower-badge.vercel.app/api/goal?v=2" alt="Follower goal badge" />
-
-
+<img src="https://gh-follower-badge.vercel.app/api/goal?v=3" alt="Follower goal badge" />
 
 
 
