@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=0F3460&style=flat-square" alt="Visitor Count" />
 <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-0F3460?style=flat-square&logo=icloud&logoColor=white" /></a>
   
-<img src="https://gh-follower-badge.vercel.app/api/thank-you?v=2" alt="Thank you badge" />
+<img src="https://gh-follower-badge.vercel.app/api/thank-you?v=4" alt="Thank you badge" />
 
 
 <img src="https://img.shields.io/badge/New%20goal%3A%20400%20followers-0F3460?style=flat-square" />
