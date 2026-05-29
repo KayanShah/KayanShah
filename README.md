@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=0F3460&width=560&height=44&lines=Hi+there!+I'm+Kayan+👋;Builder.+Leader.+Engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-
 <p>
 <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=0F3460&style=flat" alt="Visitor Count" />
 <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-0F3460?style=flat&logo=icloud&logoColor=white" /></a>
@@ -11,7 +10,7 @@
 
 <img src="https://gh-follower-badge.vercel.app/api/goal?v=4" alt="Follower goal badge" />
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKayanShah)](https://hits.seeyoufarm.com)
 
 </p>
 
