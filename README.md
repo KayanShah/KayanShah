@@ -103,7 +103,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 **Cloud & Hosting**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-7A92B2?style=flat-square&logo=odoo&logoColor=white)
-![Lovable](https://img.shields.io/badge/Loveable-F24E6A?style=flat-square&logo=heart&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-F24E6A?style=flat-square&logo=heart&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)
 
 **Design & Creative**
