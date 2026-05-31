@@ -162,6 +162,12 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
   <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=KayanShah&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area=true&area_color=61778f&hide_border=true" width="50%"/>
 </p>
 
+
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=KayanShah&theme=monokai&no-frame=false&no-bg=false&margin-w=4" width="50%"/>
+</p>
+
 <p align="center">
   <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah" alt="KayanShah's Github chart" width="50%"/>
 </p>
