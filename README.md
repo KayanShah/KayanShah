@@ -8,7 +8,7 @@
 <img src="https://gh-follower-badge.vercel.app/api/thank-you?v=7" alt="Thank you badge" />
 
 
-<img src="https://gh-follower-badge.vercel.app/api/goal?v=4" alt="Follower goal badge" />
+<img src="https://gh-follower-badge.vercel.app/api/goal?v=5" alt="Follower goal badge" />
 
 
 </p>
