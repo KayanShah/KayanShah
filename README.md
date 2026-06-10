@@ -27,7 +27,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
   <!-- <img src="https://githubcard.com/KayanShah.svg?d=TSbmwzw5" alt="GitHub Streak" height="99.4px" /> -->
   <img src="https://github-readme-streak-stats-kayan.vercel.app?user=KayanShah&theme=nord&hide_border=true" height="99.4px" alt="Refresh to load" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark" width="20%" alt="Refresh to load" />
+  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark&t=1" width="20%" alt="Refresh to load" />
   
   <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark" width="20%" alt="Refresh to load" />
   
