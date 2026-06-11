@@ -31,7 +31,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
   
   <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark" width="20%" alt="Refresh to load" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0" width="20%" alt="Refresh to load" />
+  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0&t=1" width="20%" alt="Refresh to load" />
 </p>
 
 ---
