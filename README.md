@@ -5,10 +5,9 @@
 <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-0F3460?style=flat&logo=icloud&logoColor=white" /></a>
 
 
-<img src="https://gh-follower-badge.vercel.app/api/thank-you?v=7" alt="Thank you badge" />
+<img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&v=6" />
+<img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&v=4" />
 
-
-<img src="https://gh-follower-badge.vercel.app/api/goal?v=6" alt="Follower goal badge" />
 
 
 </p>
