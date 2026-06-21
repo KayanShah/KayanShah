@@ -5,8 +5,8 @@
 <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-0F3460?style=flat&logo=icloud&logoColor=white" /></a>
 
 
-<img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&v=6" />
-<img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&v=4" />
+<img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&v=7" />
+<img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&v=5" />
 
 
 
@@ -24,13 +24,13 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 
 <p align="center">
   <!-- <img src="https://githubcard.com/KayanShah.svg?d=TSbmwzw5" alt="GitHub Streak" height="99.4px" /> -->
-  <img src="https://github-readme-streak-stats-kayan.vercel.app?user=KayanShah&theme=nord&hide_border=true" height="99.4px" alt="Refresh to load" />
+  <img src="https://streak-stats.demolab.com?user=KayanShah&theme=nord&hide_border=true&t=20260621" height="99.4px" alt="Refresh to load" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark&t=2" width="20%" alt="Refresh to load" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark&t=20260621" width="20%" alt="Refresh to load" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark" width="20%" alt="Refresh to load" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark&t=20260621" width="20%" alt="Refresh to load" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0&t=1" width="20%" alt="Refresh to load" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0&t=20260621" width="20%" alt="Refresh to load" />
 </p>
 
 ---
