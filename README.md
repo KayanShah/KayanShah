@@ -143,7 +143,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 - [ ] Ship a public project with **20+ stars**
 - [ ] Become a **top 256 Github commiter in the UK (Requires 350 followers)**
 - [x] Win a **judged award at VEX World Championships** *(Won the Judges Award at VEX Worlds 2026)*
-- [x] Create and deploy a **[portfolio website](https://kayanshah.com)**`
+- [x] Create and deploy a **[portfolio website](https://www.kayanshah.com/)**`
 
 
 
