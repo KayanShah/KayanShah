@@ -9,6 +9,7 @@
 <img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&v=21062026" />
 
 
+<img src="https://gh-follower-badge.vercel.app/api/stars?v=21062026" />
 
 </p>
 
