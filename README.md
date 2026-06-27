@@ -173,7 +173,6 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 </p>
 
 
-
 <details>
   <summary><i style="color:#2e3440">Want to use any of the dynamic tools in your README?</i></summary>
   
@@ -182,8 +181,9 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
   - 📈 [Activity Graph](https://github-readme-activity-graphkayan.vercel.app) — Contribution activity graph
   - 📌 [Project Cards](https://kayan-github-profile-projects-featu.vercel.app) — Pinned repo cards
   - 📉 [GitHub Chart API](https://kayan-github-chart-api.onrender.com) — Contribution chart for any colour or theme
-  - 💙 [Thank You Badge](https://gh-follower-badge.vercel.app/api/thank-you?_username=YOUR_USERNAME) — Live follower count badge with thank you message
-  - 🎯 [Goal Badge](https://gh-follower-badge.vercel.app/api/goal?_username=YOUR_USERNAME) — Next follower goal badge (multiple of 50)
+  - 💙 [Thank You Badge](https://gh-follower-badge.vercel.app/api/thank-you?_username=YOUR_USERNAME) — Live follower count badge
+  - 🎯 [Goal Badge](https://gh-follower-badge.vercel.app/api/goal?_username=YOUR_USERNAME) — Next follower goal badge
+  - ⭐ [Stars Badge](https://gh-follower-badge.vercel.app/api/stars?_username=YOUR_USERNAME) — Total stars across all repos
 
 </details>
 
