@@ -5,11 +5,11 @@
 <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-0F3460?style=flat&logo=icloud&logoColor=white" /></a>
 
 
-<img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&v=21062026" />
-<img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&v=21062026" />
+<img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&v=28062026" />
+<img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&v=28062026" />
 
 
-<img src="https://gh-follower-badge.vercel.app/api/stars?v=21062026" />
+<img src="https://gh-follower-badge.vercel.app/api/stars?v=28062026" />
 
 </p>
 
@@ -25,13 +25,13 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 
 <p align="center">
   <!-- <img src="https://githubcard.com/KayanShah.svg?d=TSbmwzw5" alt="GitHub Streak" height="99.4px" /> -->
-  <img src="https://github-readme-streak-stats-kayan.vercel.app?user=KayanShah&theme=nord&hide_border=true&t=21062026" height="99.4px" alt="Refresh to load" />
+  <img src="https://github-readme-streak-stats-kayan.vercel.app?user=KayanShah&theme=nord&hide_border=true&t=28062026" height="99.4px" alt="Refresh to load" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark&t=21062026" width="20%" alt="Refresh to load" />
+  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark&t=28062026" width="20%" alt="Refresh to load" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark&t=21062026" width="20%" alt="Refresh to load" />
+  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark&t=28062026" width="20%" alt="Refresh to load" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0&t=21062026" width="20%" alt="Refresh to load" />
+  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0&t=28062026" width="20%" alt="Refresh to load" />
 </p>
 
 ---
@@ -84,10 +84,10 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 ![Onshape](https://img.shields.io/badge/Onshape-64bc4f?style=flat-square&logo=onshape&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=flat-square&logo=autodesk&logoColor=white)
 ![Techsoft 2D Design](https://img.shields.io/badge/Techsoft%202D%20Design-4B9CD3?style=flat-square&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6F00?style=flat-square&logoColor=white)
-![Laser Cutting](https://img.shields.io/badge/Laser%20Cutting-FF3C00?style=flat-square&logoColor=white)
-![Electronics](https://img.shields.io/badge/Electronics-F0DB4F?style=flat-square&logoColor=white)
-![Soldering](https://img.shields.io/badge/Soldering-silver?style=flat-square&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6F00?style=flat-square&logo=white)
+![Laser Cutting](https://img.shields.io/badge/Laser%20Cutting-FF3C00?style=flat-square&logo=white)
+![Electronics](https://img.shields.io/badge/Electronics-F0DB4F?style=flat-square&logo=white)
+![Soldering](https://img.shields.io/badge/Soldering-silver?style=flat-square&logo=white)
 ![Elegoo](https://img.shields.io/badge/Elegoo-0078D4?style=flat-square&logo=elegoo&logoColor=white)
 ![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?style=flat-square&logo=bambulab&logoColor=white)
 
@@ -97,9 +97,9 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 ![OpenAI](https://img.shields.io/badge/OpenAI-F5F5F5?style=flat-square&logo=openai&logoColor=000000)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-111111?style=flat-square&logo=xdotai&logoColor=white)
-![NewsAPI](https://img.shields.io/badge/NewsAPI-FF9900?style=flat-square&logoColor=white)
+![NewsAPI](https://img.shields.io/badge/NewsAPI-FF9900?style=flat-square&logo=white)
 ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=flat-square&logo=yahoo&logoColor=white)
-![Suno](https://img.shields.io/badge/Suno-000000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U3VubzwvdGl0bGU+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNi41IDBDMjAuNjQyIDAgMjQgNS4zNzMgMjQgMTJoLTljMCA2LjYyNy0zLjM1OCAxMi03LjUgMTJDMy4zNTggMjQgMCAxOC42MjcgMCAxMmg5YzAtNi42MjcgMy4zNTgtMTIgNy41LTEyWiIvPjwvc3ZnPgo=)
+![Suno](https://img.shields.io/badge/Suno-000000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U3VubzwvdGl0bGU+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNi41IDBDMjAuNjQyIDAgMjQgNS4zNzMgMjQgMTJoLTljMCA2LjYyNy0zLjM1OCAxMi03LjUwMTJDMy4zNTggMjQgMCAxOC42MjcgMCAxMmg5YzAtNi42MjcgMy4zNTgtMTIgNy41LTEyWiIvPjwvc3ZnPgo=)
 
 **Cloud & Hosting**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -160,17 +160,17 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=KayanShah&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area=true&area_color=61778f&hide_border=true&t=21062026" width="50%"/>
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=KayanShah&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area=true&area_color=61778f&hide_border=true&t=28062026" width="50%"/>
 </p>
 
 
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=KayanShah&theme=monokai&no-frame=false&no-bg=false&margin-w=4&t=21062026" width="50%"/>
+  <img src="https://github-trophies.vercel.app/?username=KayanShah&theme=monokai&no-frame=false&no-bg=false&margin-w=4&t=28062026" width="50%"/>
 </p>
 
 <p align="center">
-  <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah?t=21062026" alt="KayanShah's Github chart" width="50%"/>
+  <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah?t=28062026" alt="KayanShah's Github chart" width="50%"/>
 </p>
 
 
@@ -205,3 +205,13 @@ To make it expanded by default, use:
   This is visible immediately.
 </details>
 -->
+
+
+<!-- ************************************************************
+CACHE REFRESH HISTORY LOG
+Keep track of previous cache busting parameters here.
+Format: [DD/MM/YY] -> Dynamic Parameter String
+
+- [21/06/26] -> v=21062026 / t=21062026
+- [28/06/26] -> v=28062026 / t=28062026 (Current)
+************************************************************ -->
