@@ -166,7 +166,7 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=KayanShah&theme=monokai&no-frame=false&no-bg=false&margin-w=4&t=28062026" width="50%"/>
+  <img src="https://github-trophies.vercel.app/?username=KayanShah&theme=monokai&no-frame=false&no-bg=false&margin-w=4&t=29062026" width="50%"/>
 </p>
 
 <p align="center">
