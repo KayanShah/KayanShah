@@ -19,3 +19,21 @@
 > 
 > ### Maintenance
 > Bump the `t=`/`v=` value to the current date any time a card or badge appears stuck or stale.
+
+
+
+> [!NOTE]
+> **Issue #2 — committers.top Badge Showing Unranked Despite Being Ranked** · [View issue] (https://github.com/KayanShah/KayanShah/issues/2)
+>https://user-badge.committers.top/uk/KayanShah.svg
+> **Status:** Open
+> **Opened:** 2026-07-09
+> **Link:** [KayanShah/KayanShah#2](https://github.com/KayanShah/KayanShah/issues/2)
+>
+> ### Problem
+> Unknown, investigation in progress
+>
+> ### Cause
+> After analysing the code, it appears that the badge data is deployed separately from the rankings via a dedicated Cloudflare Worker, updated by a daily cron at midnight UTC. The ranking refresh (17:40 UTC) and the badge deployment (00:00 UTC) are on independent schedules, so there is a window of up to ~6 hours where the ranking and badge are out of sync.
+>
+> ### Resolution
+> Badge expected to update at **00:00 UTC (01:00 BST) on 2026-07-10**. Monitor after that time and close if resolved.
