@@ -13,7 +13,6 @@
 
 <img src="https://gh-follower-badge.vercel.app/api/stars?v=28062026" />
 
-[![committers.top badge](https://user-badge.committers.top/uk/KayanShah.svg)](https://committers.top/uk#KayanShah)
 
 </p>
 
