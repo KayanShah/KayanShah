@@ -1,9 +1,8 @@
 > [!NOTE]
 > ## Issue #1 — Stat Card & Badge Caching
 > 
-> **Status:** Resolved
+> **Status:** Open
 > **Opened:** 2026-06-12
-> **Closed:** 2026-06-28
 > **Link:** [KayanShah/KayanShah#1](https://github.com/KayanShah/KayanShah/issues/1)
 > 
 > ### Problem
