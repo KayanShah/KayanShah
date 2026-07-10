@@ -30,7 +30,7 @@
 > **Status:** Resolved
 > **Opened:** 2026-07-09
 > **Closed:** 2026-07-10
-> **Link:** [KayanShah/KayanShah#2](https://github.com/KayanShah/KayanShah/issues/3)
+> **Link:** [KayanShah/KayanShah#3](https://github.com/KayanShah/KayanShah/issues/3)
 >
 > ### Problem
 > [`https://user-badge.committers.top/uk/KayanShah.svg`](https://user-badge.committers.top/uk/KayanShah.svg) displayed "United Kingdom unranked (public commits)" despite KayanShah appearing at **#247** on the [UK public commits list](https://committers.top/uk) as of the 2026-07-09 17:40 UTC refresh.
