@@ -20,20 +20,26 @@
 > ### Maintenance
 > Bump the `t=`/`v=` value to the current date any time a card or badge appears stuck or stale.
 
+---
 
 
 > [!NOTE]
-> **Issue #2 — committers.top Badge Showing Unranked Despite Being Ranked** · [View issue] (https://github.com/KayanShah/KayanShah/issues/2)
->https://user-badge.committers.top/uk/KayanShah.svg
-> **Status:** Open
+> **Issue #2 — committers.top Badge Showing Unranked** · [View issue](https://github.com/KayanShah/KayanShah/issues/2)
+>
+> **Status:** Resolved
 > **Opened:** 2026-07-09
+> **Closed:** 2026-07-10
 > **Link:** [KayanShah/KayanShah#2](https://github.com/KayanShah/KayanShah/issues/2)
 >
 > ### Problem
-> Unknown, investigation in progress
+> [`https://user-badge.committers.top/uk/KayanShah.svg`](https://user-badge.committers.top/uk/KayanShah.svg) displayed "United Kingdom unranked (public commits)" despite KayanShah appearing at **#247** on the [UK public commits list](https://committers.top/uk) as of the 2026-07-09 17:40 UTC refresh.
 >
 > ### Cause
-> After analysing the code, it appears that the badge data is deployed separately from the rankings via a dedicated Cloudflare Worker, updated by a daily cron at midnight UTC. The ranking refresh (17:40 UTC) and the badge deployment (00:00 UTC) are on independent schedules, so there is a window of up to ~6 hours where the ranking and badge are out of sync.
+> The badge data is deployed via a dedicated Cloudflare Worker on a separate daily cron at midnight UTC, independent of the rankings refresh schedule. This created a window where the ranking and badge were out of sync.
 >
 > ### Resolution
-> Badge expected to update at **00:00 UTC (01:00 BST) on 2026-07-10**. Monitor after that time and close if resolved.
+> Badge updated at 00:00 UTC (01:00 BST) on 2026-07-10 as expected.
+
+
+
+
