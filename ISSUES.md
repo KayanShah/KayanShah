@@ -1,4 +1,5 @@
-## Issues logged in [KayanShah/KayanShah/Issues](https://github.com/KayanShah/KayanShah/issues)
+> [!CAUTION]
+> ## Summary of issues logged in [KayanShah/KayanShah/Issues](https://github.com/KayanShah/KayanShah/issues)
 
 > [!IMPORTANT]
 > **Issue #1 — Stat Card & Badge Caching**
