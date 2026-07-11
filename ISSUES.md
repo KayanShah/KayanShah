@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > ## Issue #1 — Stat Card & Badge Caching
 > 
-> **Status:** Open
+> **Status:** Open- Investigating
 > **Opened:** 2026-06-12
 > **Link:** [KayanShah/KayanShah#1](https://github.com/KayanShah/KayanShah/issues/1)
 > 
@@ -24,6 +24,7 @@
 > 
 > ### Likely fix date
 > No permanent fix as of yet- aim to have confirmed the issue by 20/07/2026
+> Likely need to Bump the `t=`/`v=` value approx. once per week 
 
 
 ---
