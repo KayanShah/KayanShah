@@ -16,9 +16,14 @@
 > - `github-trophies.vercel.app`
 > - `kayan-github-chart-api.onrender.com`
 > - `gh-follower-badge.vercel.app`
+>
 > 
 > ### Maintenance
 > Bump the `t=`/`v=` value to the current date any time a card or badge appears stuck or stale.
+>
+> 
+> ### Likely fix date
+> No permanent fix as of yet- aim to have confirmed the issue by 20/07/2026
 
 
 ---
