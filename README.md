@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=0F3460&width=560&height=44&lines=Hi+there!+I'm+Kayan+👋;Builder.+Leader.+Engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<p><a href="https://committers.top/uk#KayanShah"><img src="https://user-badge.committers.top/uk/KayanShah.svg" alt="committers.top badge" /></a> <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=007ec6&style=flat" alt="Visitor Count" /> <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-007ec6?style=flat&logo=icloud&logoColor=white" /></a> <img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&_color=007ec6&v=29062026" /> <img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&_color=007ec6&v=29062026" /> <img src="https://gh-follower-badge.vercel.app/api/stars?_username=KayanShah&_color=007ec6&v=29062026" /></p>
+<p><a href="https://committers.top/uk#KayanShah"><img src="https://user-badge.committers.top/uk/KayanShah.svg" alt="committers.top badge" /></a> <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=007ec6&style=flat" alt="Visitor Count" /> <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-007ec6?style=flat&logo=icloud&logoColor=white" /></a> <img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&_color=007ec6&v=11072026" /> <img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&_color=007ec6&v=11072026" /> <img src="https://gh-follower-badge.vercel.app/api/stars?_username=KayanShah&_color=007ec6&v=11072026" /></p>
 
 
 ---
@@ -15,13 +15,13 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 
 <p align="center">
   <!-- <img src="https://githubcard.com/KayanShah.svg?d=TSbmwzw5" alt="GitHub Streak" height="99.4px" /> -->
-  <img src="https://github-readme-streak-stats-kayan.vercel.app?user=KayanShah&theme=nord&hide_border=true&t=28062026" height="99.4px" alt="Refresh to load" />
+  <img src="https://github-readme-streak-stats-kayan.vercel.app?user=KayanShah&theme=nord&hide_border=true&t=11072026" height="99.4px" alt="Refresh to load" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark&t=28062026" width="20%" alt="Refresh to load" />
+  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark&t=11072026" width="20%" alt="Refresh to load" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark&t=28062026" width="20%" alt="Refresh to load" />
+  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark&t=11072026" width="20%" alt="Refresh to load" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0&t=28062026" width="20%" alt="Refresh to load" />
+  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0&t=11072026" width="20%" alt="Refresh to load" />
 </p>
 
 ---
@@ -136,9 +136,10 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 - [ ] Continue contributing to **open source**
 - [ ] Reach **Greenpower International Finals 2026** — back-to-back
 - [ ] Ship a public project with **20+ stars**
-- [x] Win a **[judged award at VEX World Championships](https://habs-gliders-34071b.vercel.app)** *(Won the Judges Award at VEX Worlds 2026)*
+- [x] Win a **judged award at VEX World Championships** *(Won the Judges Award at VEX Worlds 2026)*
 - [x] Create and deploy a **[portfolio website](https://www.kayanshah.com/)**
-- [x] Become a **[top 256 Github commiter in the UK](https://committers.top/uk#KayanShah) (Requires 350 followers)**
+- [x] Become a **top 256 Github commiter in the UK (Requires 350 followers)**
+
 
 
 
@@ -154,17 +155,17 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=KayanShah&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area=true&area_color=61778f&hide_border=true&t=28062026" width="50%"/>
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=KayanShah&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area=true&area_color=61778f&hide_border=true&t=11072026" width="50%"/>
 </p>
 
 
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=KayanShah&theme=monokai&no-frame=false&no-bg=false&margin-w=4&t=29062026" width="50%"/>
+  <img src="https://github-trophies.vercel.app/?username=KayanShah&theme=monokai&no-frame=false&no-bg=false&margin-w=4&t=11072026" width="50%"/>
 </p>
 
 <p align="center">
-  <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah?t=28062026" alt="KayanShah's Github chart" width="50%"/>
+  <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah?t=11072026" alt="KayanShah's Github chart" width="50%"/>
 </p>
 
 
@@ -207,5 +208,6 @@ Keep track of previous cache busting parameters here.
 Format: [DD/MM/YY] -> Dynamic Parameter String
 
 - [21/06/26] -> v=21062026 / t=21062026
-- [28/06/26] -> v=28062026 / t=28062026 (Current)
+- [28/06/26] -> v=28062026 / t=28062026
+- [11/07/26] -> v=11072026 / t=11072026 (Current)
 ************************************************************ -->
