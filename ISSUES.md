@@ -24,7 +24,7 @@
 > 
 > ### Likely fix date
 > No permanent fix as of yet- aim to have confirmed the issue by 20/07/2026
-> Likely need to Bump the `t=`/`v=` value approx. once per week 
+> Likely need to Bump the `t=`/`v=` value approx. once per week or whenever issue occurs
 
 
 ---
