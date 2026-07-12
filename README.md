@@ -149,8 +149,13 @@ I'm **Kayan Shah** - a student engineer and programmer based in London. I build 
 
 🤝 Shoutout to [**@PanshulVempalli**](https://github.com/PanshulVempalli) — go check out his profile! I do loads of projects with him!
 
-<a>
+
 ⭐ If something here was useful or you want to connect, a follow or star goes a long way!
+
+
+
+
+Make sure to check out our [Habs Gliders Repositories](https://github.com/habs-gliders-vex) to view our award winning code
 
 *Thanks for visiting - check out my public repos below. Much more to come!*
 
