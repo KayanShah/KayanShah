@@ -28,6 +28,9 @@
 > ### Likely fix date
 > No permanent fix as of yet- aim to have confirmed the issue by 27/07/2026
 > Likely need to Bump the `t=`/`v=` value approx. once per week or whenever issue occurs
+> 
+>> **Further delays to deadlines- standby**
+
 
 
 ---
@@ -48,7 +51,8 @@
 > The badge data is deployed via a dedicated Cloudflare Worker on a separate daily cron at midnight UTC, independent of the rankings refresh schedule. This created a window where the ranking and badge were out of sync.
 >
 > ### Resolution
-> Badge updated at 00:00 UTC (01:00 BST) on 2026-07-10 as expected.
+> Badge updated at 00:00 UTC (01:00 BST) on 10-07-2026 as expected.
+>
 
 
 
