@@ -1,0 +1,45 @@
+name: Refresh stat-card cache
+
+# Weekly automated version of the manual chore in ISSUES.md (Issue #1).
+# Bumps the t=/v= cache-busting dates in README.md so GitHub's Camo cache
+# re-fetches the stat cards and badges instead of serving stale copies.
+#
+# Note: commits land as github-actions[bot] and do NOT count toward the
+# profile contribution graph — this only removes the manual upkeep.
+
+on:
+  schedule:
+    - cron: '17 6 * * 1' # 06:17 UTC every Monday
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-cache
+  cancel-in-progress: false
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Bump cache-busting dates
+        run: node scripts/bump-cache.mjs
+
+      - name: Commit and push if changed
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "README already current — nothing to push."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh stat-card cache ($(date -u +%d/%m/%Y))"
+          git push
