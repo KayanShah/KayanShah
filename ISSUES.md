@@ -29,7 +29,7 @@
 > Bumping the value to the current date changes the URL, so Camo treats it as a new image and fetches it fresh instead of re-serving the pinned copy. A running record of every bump is kept in the cache refresh history log at the bottom of `README.md`.
 >
 > ### Maintenance
-> This is a mitigation, not an upstream fix. Bump the `t=`/`v=` value to the current date whenever a card or badge appears stuck or stale — roughly once a week in practice — and log it in `README.md`.
+> This is a mitigation, not an upstream fix. The weekly bump is now automated by [`.github/workflows/refresh-cache.yml`](.github/workflows/refresh-cache.yml), which runs [`scripts/bump-cache.mjs`](scripts/bump-cache.mjs) every Monday and updates the history log in `README.md`. To force a bump between runs, trigger the workflow manually or run `node scripts/bump-cache.mjs` locally.
 >
 > ### Closing statement
 > Closed 2026-08-27 after a six-week monitoring window with no recurrence. The last loading failure was logged on 2026-07-11; every weekly cache bump since (2026-07-30, 2026-08-12, 2026-08-18, 2026-08-27) has left the cards and badges rendering reliably on both web and the iOS app. No root-cause fix is possible from this repo — the failure originates in GitHub's Camo cache and in upstream generator cold-starts, neither of which we control — so the dated cache-busting parameter is accepted as the permanent resolution. This issue will be reopened only if the failures return and a cache bump no longer clears them.
