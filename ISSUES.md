@@ -11,7 +11,10 @@
 > 
 > ### Problem
 > Stat cards (streak stats, summary cards, activity graph, trophies, follower badges) were intermittently failing to load on both desktop and iOS. GitHub aggressively caches external images by URL — once fetched, GitHub serves the cached version even after the underlying data changes, or if a temporary fetch error occurred, it can cache that broken state.
-> 
+>
+> ### Cause
+> GitHub proxies every external image through its Camo cache and keys it on the exact URL. With static card and badge URLs, the first stale or errored fetch stays pinned against that key and is re-served on web and in the iOS app no matter how many times the page is refreshed. The upstream generators (Vercel / Render) also cold-start and occasionally time out, and any such failed response gets cached the same way.
+>
 > ### Fix
 > Added cache-busting query parameters (`t=DDMMYYYY` / `v=DDMMYYYY`, UK date format) to all live stat card and badge URLs:
 > - `github-readme-streak-stats-kayan.vercel.app`
