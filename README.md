@@ -159,7 +159,7 @@ Make sure to check out our [Habs Gliders Repositories](https://github.com/habs-g
 </p>
 
 <p align="center">
-  <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah?t=18082026" alt="KayanShah's Github chart" width="50%"/>
+  <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah?t=27082026" alt="KayanShah's Github chart" width="50%"/>
 </p>
 
 <details>
