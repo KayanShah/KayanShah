@@ -31,7 +31,7 @@
 >
 > 
 > ### Closing statement
-> Closed 27/08/2026. There is no permanent fix available from this repo: the root cause is GitHub's Camo cache and upstream generator cold-starts, both outside our control. The dated cache-busting parameter is accepted as the standing resolution and has held with no recurrence since the last failure was logged on 11/07/2026.
+> Closed 27/08/2026 after a six-week monitoring window with no recurrence. The last loading failure was logged on 11/07/2026; every weekly cache bump since (30/07, 12/08, 18/08, 27/08) has left the cards and badges rendering reliably on both web and the iOS app. No root-cause fix is possible from this repo — the failure originates in GitHub's Camo cache and in upstream generator cold-starts, neither of which we control — so the dated cache-busting parameter is accepted as the permanent resolution. This issue will be reopened only if the failures return and a cache bump no longer clears them.
 
 
 
