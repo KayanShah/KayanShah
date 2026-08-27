@@ -8,7 +8,7 @@
 > **Opened:** 2026-06-12
 > **Closed:** 2026-08-27
 > **Link:** [KayanShah/KayanShah#1](https://github.com/KayanShah/KayanShah/issues/1)
-> 
+>
 > ### Problem
 > Stat cards (streak stats, summary cards, activity graph, trophies, follower badges) were intermittently failing to load on both desktop and iOS. GitHub aggressively caches external images by URL — once fetched, GitHub serves the cached version even after the underlying data changes, or if a temporary fetch error occurred, it can cache that broken state.
 >
@@ -29,7 +29,6 @@
 > ### Maintenance
 > This is a mitigation, not an upstream fix. Bump the `t=`/`v=` value to the current date whenever a card or badge appears stuck or stale — roughly once a week in practice — and log it in `README.md`.
 >
-> 
 > ### Closing statement
 > Closed 27/08/2026 after a six-week monitoring window with no recurrence. The last loading failure was logged on 11/07/2026; every weekly cache bump since (30/07, 12/08, 18/08, 27/08) has left the cards and badges rendering reliably on both web and the iOS app. No root-cause fix is possible from this repo — the failure originates in GitHub's Camo cache and in upstream generator cold-starts, neither of which we control — so the dated cache-busting parameter is accepted as the permanent resolution. This issue will be reopened only if the failures return and a cache bump no longer clears them.
 
