@@ -140,7 +140,7 @@ I'm **Kayan Shah** – a student engineer and programmer based in London. I buil
 - [x] Reach **[1,000 GitHub followers](https://github.com/kayanshah)**
 - [x] Win a **[judged award at VEX World Championships](https://habs-gliders-34071b.vercel.app)** *(Won the Judges Award at VEX Worlds 2026)*
 - [x] Create and deploy a **[portfolio website](https://www.kayanshah.com/)**
-- [x] Become a **[top 256 Github commiter in the UK](https://committers.top/uk#KayanShah)** (Requires 350 followers)
+- [x] Become a **[top 256 GitHub committer in the UK](https://committers.top/uk#KayanShah)** (Requires 350 followers)
 
 ---
 
@@ -161,7 +161,7 @@ Make sure to check out our [Habs Gliders Repositories](https://github.com/habs-g
 </p>
 
 <p align="center">
-  <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah?t=27082026" alt="KayanShah's Github chart" width="50%"/>
+  <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah?t=27082026" alt="KayanShah's GitHub chart" width="50%"/>
 </p>
 
 <details>
