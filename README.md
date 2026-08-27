@@ -155,7 +155,7 @@ Make sure to check out our [Habs Gliders Repositories](https://github.com/habs-g
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=KayanShah&theme=monokai&no-frame=false&no-bg=false&margin-w=4&t=18082026" width="50%"/>
+  <img src="https://github-trophies.vercel.app/?username=KayanShah&theme=monokai&no-frame=false&no-bg=false&margin-w=4&t=27082026" width="50%"/>
 </p>
 
 <p align="center">
