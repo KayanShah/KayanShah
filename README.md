@@ -77,10 +77,10 @@ I'm **Kayan Shah** – a student engineer and programmer based in London. I buil
 ![Onshape](https://img.shields.io/badge/Onshape-64bc4f?style=flat-square&logo=onshape&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=flat-square&logo=autodesk&logoColor=white)
 ![Techsoft 2D Design](https://img.shields.io/badge/Techsoft%202D%20Design-4B9CD3?style=flat-square&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6F00?style=flat-square&logo=white)
-![Laser Cutting](https://img.shields.io/badge/Laser%20Cutting-FF3C00?style=flat-square&logo=white)
-![Electronics](https://img.shields.io/badge/Electronics-F0DB4F?style=flat-square&logo=white)
-![Soldering](https://img.shields.io/badge/Soldering-silver?style=flat-square&logo=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6F00?style=flat-square)
+![Laser Cutting](https://img.shields.io/badge/Laser%20Cutting-FF3C00?style=flat-square)
+![Electronics](https://img.shields.io/badge/Electronics-F0DB4F?style=flat-square)
+![Soldering](https://img.shields.io/badge/Soldering-silver?style=flat-square)
 ![Elegoo](https://img.shields.io/badge/Elegoo-0078D4?style=flat-square&logo=elegoo&logoColor=white)
 ![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?style=flat-square&logo=bambulab&logoColor=white)
 
@@ -90,7 +90,7 @@ I'm **Kayan Shah** – a student engineer and programmer based in London. I buil
 ![OpenAI](https://img.shields.io/badge/OpenAI-F5F5F5?style=flat-square&logo=openai&logoColor=000000)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-111111?style=flat-square&logo=xdotai&logoColor=white)
-![NewsAPI](https://img.shields.io/badge/NewsAPI-FF9900?style=flat-square&logo=white)
+![NewsAPI](https://img.shields.io/badge/NewsAPI-FF9900?style=flat-square)
 ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=flat-square&logo=yahoo&logoColor=white)
 ![Suno](https://img.shields.io/badge/Suno-000000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U3VubzwvdGl0bGU+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNi41IDBDMjAuNjQyIDAgMjQgNS4zNzMgMjQgMTJoLTljMCA2LjYyNy0zLjM1OCAxMi03LjUwMTJDMy4zNTggMjQgMCAxOC42MjcgMCAxMmg5YzAtNi42MjcgMy4zNTgtMTIgNy41LTEyWiIvPjwvc3ZnPgo=)
 
