@@ -29,13 +29,8 @@
 > Bump the `t=`/`v=` value to the current date any time a card or badge appears stuck or stale.
 >
 > 
-> ### Likely fix date
-> No permanent fix as of yet- aim to have confirmed the issue by 27/07/2026
-> Likely need to Bump the `t=`/`v=` value approx. once per week or whenever issue occurs
-> 
-> **Further delays to deadlines- standby** - more delay
-> 
-> Most recent estimated final closing statement: 24/08/2026
+> ### Closing statement
+> Closed 27/08/2026. There is no permanent fix available from this repo: the root cause is GitHub's Camo cache and upstream generator cold-starts, both outside our control. The dated cache-busting parameter is accepted as the standing resolution and has held with no recurrence since the last failure was logged on 11/07/2026.
 
 
 
