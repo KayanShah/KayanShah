@@ -1,5 +1,7 @@
-> [!CAUTION]
+> [!NOTE]
 > ## Summary of issues logged in [KayanShah/KayanShah/Issues](https://github.com/KayanShah/KayanShah/issues)
+>
+> **Status as of 27/08/2026:** both logged issues (#1 and #3) are Resolved — nothing open.
 
 > [!NOTE]
 > **Issue #1 — Stat Card & Badge Caching** · [View issue](https://github.com/KayanShah/KayanShah/issues/1)
