@@ -15,8 +15,8 @@
 > ### Cause
 > GitHub proxies every external image through its Camo cache and keys it on the exact URL. With static card and badge URLs, the first stale or errored fetch stays pinned against that key and is re-served on web and in the iOS app no matter how many times the page is refreshed. The upstream generators (Vercel / Render) also cold-start and occasionally time out, and any such failed response gets cached the same way.
 >
-> ### Fix
-> Added cache-busting query parameters (`t=DDMMYYYY` / `v=DDMMYYYY`, UK date format) to all live stat card and badge URLs:
+> ### Resolution
+> Added a dated cache-busting query parameter (`t=DDMMYYYY` / `v=DDMMYYYY`, UK date format) to every live stat card and badge URL:
 > - `github-readme-streak-stats-kayan.vercel.app`
 > - `github-profile-summary-cards-kayan.vercel.app`
 > - `github-readme-activity-graphkayan.vercel.app`
@@ -24,9 +24,10 @@
 > - `kayan-github-chart-api.onrender.com`
 > - `gh-follower-badge.vercel.app`
 >
-> 
+> Bumping the value to the current date changes the URL, so Camo treats it as a new image and fetches it fresh instead of re-serving the pinned copy. A running record of every bump is kept in the cache refresh history log at the bottom of `README.md`.
+>
 > ### Maintenance
-> Bump the `t=`/`v=` value to the current date any time a card or badge appears stuck or stale.
+> This is a mitigation, not an upstream fix. Bump the `t=`/`v=` value to the current date whenever a card or badge appears stuck or stale — roughly once a week in practice — and log it in `README.md`.
 >
 > 
 > ### Closing statement
