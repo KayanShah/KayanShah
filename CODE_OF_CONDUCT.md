@@ -64,8 +64,18 @@ pull requests, discussions, and commit history.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-hi@kayanshah.com.
-All complaints will be reviewed and investigated promptly and fairly.
+hi@kayanshah.com. All complaints will be reviewed and investigated promptly
+and fairly.
+
+When reporting, it helps to include:
+
+* How to reach you for follow-up questions
+* The usernames or names of anyone involved, and of any witnesses
+* What happened, with links or screenshots where possible
+* Any other context you think is relevant
+
+You can expect an acknowledgement within 72 hours and a note on the outcome
+once the review is complete.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
