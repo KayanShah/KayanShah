@@ -1,4 +1,4 @@
-# Kayan Shah
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=0F3460&width=560&height=44&lines=Hi+there!+I'm+Kayan+👋;Builder.+Leader.+Engineer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
