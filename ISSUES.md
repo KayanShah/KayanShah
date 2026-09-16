@@ -66,8 +66,9 @@
 > [!IMPORTANT]
 > **Issue #4 — committers.top UK Badge Showing Unranked** · [View issue](https://github.com/KayanShah/KayanShah/issues/4)
 >
-> **Status:** Open- Investigating
+> **Status:** Resolved
 > **Opened:** 2026-09-16
+> **Closed:** 2026-09-16
 > **Link:** [KayanShah/KayanShah#4](https://github.com/KayanShah/KayanShah/issues/4)
 >
 > ### Problem
