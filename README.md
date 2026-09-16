@@ -128,7 +128,7 @@ I'm **Kayan Shah** – a student engineer and programmer based in London. I buil
 
 <p align="center">
   <a href="https://github.com/KayanShah/PLFantasyBot2026-27">
-    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=KayanShah&repo=PLFantasyBot2026-27&theme=nord&bg_color=0F3460&hide_border=true" alt="PLFantasyBot2026-27 repo card" />
+    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=KayanShah&repo=PLFantasyBot2026-27&theme=nord&bg_color=0F3460&hide_border=true&t=16092026" alt="PLFantasyBot2026-27 repo card" />
   </a>
   &nbsp;
   
