@@ -162,6 +162,9 @@
 > ### Maintenance
 > Workflow commits land as `github-actions[bot]` via the default `GITHUB_TOKEN`, so they don't count toward the profile contribution graph — an accepted trade-off, since the goal was removing the manual chore, not commit credit. To force a bump between scheduled runs, trigger the workflow manually from the Actions tab, or run `node scripts/bump-cache.mjs` locally.
 >
+> ### Closing statement
+> Closed 2026-09-16. The weekly workflow now keeps the cache-busting date current without manual intervention, and #1's Maintenance note points at it. Reopen if the workflow stops running, or if a card or badge goes stale despite a recent automated bump.
+>
 
 
 
