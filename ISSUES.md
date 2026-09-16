@@ -116,6 +116,19 @@
 > ### Problem
 > The "Thank you for X followers" badge on the README and the follower count shown on the GitHub profile appeared to disagree — the profile displayed "1.1k followers" while the badge and every direct API check showed 1,053, which looked like the badge was undercounting.
 >
+> ### Cause
+> GitHub's profile UI abbreviates follower counts to one decimal place once they pass 1,000 — 1,050 through 1,149 all display as "1.1k". "1.1k" is not a separate, larger figure; it's 1,053 rounded for display, not evidence of a higher true count.
+>
+> Checked three independent ways to be sure the raw figure itself was right:
+>
+> | Method | Result |
+> |---|---|
+> | REST (`GET /user`) | `followers: 1053` |
+> | GraphQL (`user(login:"KayanShah"){followers{totalCount}}`) | `1053` |
+> | Full pagination of `/users/KayanShah/followers`, counted entry by entry | `1053` |
+>
+> All three agree, and all three match the badge.
+>
 
 
 
