@@ -73,6 +73,17 @@
 > ### Problem
 > [`https://user-badge.committers.top/uk/KayanShah.svg`](https://user-badge.committers.top/uk/KayanShah.svg) shows "unranked (public commits)" for the UK list. Ranked in the top 256 for about 3 months, then dropped off roughly a month ago. Followers (1,053) and location ("England") both comfortably clear the list's current requirements, so the drop isn't due to either of those.
 >
+> ### Cause
+> [ashkulz/committers.top](https://github.com/ashkulz/committers.top) queries `contributionsCollection` with no `from`/`to` range, which GitHub defaults to a rolling 365-day window. The same field was queried twice — once as the profile owner, once as an unrelated third-party account with no access to private repos:
+>
+> | Field | As owner | As a stranger (what committers.top sees) |
+> |---|---|---|
+> | `totalCommitContributions` | 1,542 | 673 |
+> | `restrictedContributionsCount` | 0 | 897 |
+> | `contributionCalendar.totalContributions` | 1,631 | 1,631 (same) |
+>
+> 897 of the 1,631 rolling-year contributions are to private repositories (~25 actively-pushed ones). GitHub aggregates those into a hidden total for any non-collaborator rather than attributing them to a contribution type, so committers.top's crawler — itself just another non-collaborator — only sees 673 visible commits. As the rolling window advanced, the public-heavy months that used to carry the ranking rolled out and were replaced by this private-heavy stretch.
+>
 
 
 
