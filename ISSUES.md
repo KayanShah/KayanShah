@@ -141,7 +141,7 @@
 ---
 
 
-> [!IMPORTANT]
+> [!NOTE]
 > **Issue #6 — Cache-Busting Date Not Refreshing Automatically** · [View issue](https://github.com/KayanShah/KayanShah/issues/6)
 >
 > **Status:** Resolved
