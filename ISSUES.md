@@ -84,6 +84,19 @@
 >
 > 897 of the 1,631 rolling-year contributions are to private repositories (~25 actively-pushed ones). GitHub aggregates those into a hidden total for any non-collaborator rather than attributing them to a contribution type, so committers.top's crawler — itself just another non-collaborator — only sees 673 visible commits. As the rolling window advanced, the public-heavy months that used to carry the ranking rolled out and were replaced by this private-heavy stretch.
 >
+> ### Resolution
+> Not a bug in committers.top or the badge — `totalCommitContributions` and `restrictedContributionsCount` are computed relative to what the querying viewer is authorised to see, and committers.top's crawler is just another unrelated viewer. Confirmed by building the actual `committers.top` binary from source (`CGO_ENABLED=0 go build`, the same invocation its `daily_update.yml` uses) and running it against live data — it reproduced the same 1,542 / 1,631 figures as the manual GraphQL check.
+>
+> Compared against the live UK cutoffs at rank 256, the gap is real on all three list variants:
+>
+> | List | Rank 256 needs | Visible to others | Gap |
+> |---|---|---|---|
+> | `/uk` (commits) | ≥765 | 673 | −92 |
+> | `/uk_public` (contributions) | ≥1,124 | 734 | −390 |
+> | `/uk_private` (all) | ≥2,983 | 1,631 | −1,352 |
+>
+> There is no code or configuration fix available from this repo. The only way back onto the list is to make some of the active private repos public — their existing commit history becomes public retroactively, as far back as the rolling window still covers — or shift more commits into already-public repos.
+>
 
 
 
