@@ -151,6 +151,9 @@
 > ### Problem
 > The `t=`/`v=` cache-busting parameter added to fix #1 didn't refresh on its own — every bump was a manual edit across roughly a dozen image URLs that someone had to remember to make. Between manual bumps, cards and badges could go stale again for days.
 >
+> ### Cause
+> #1's fix was a mitigation, not automation. Its Maintenance note just said to bump the value "roughly once a week in practice," with nothing in the repo actually enforcing that cadence — it relied entirely on a human noticing staleness and running through every URL by hand.
+>
 
 
 
