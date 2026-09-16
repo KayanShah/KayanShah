@@ -129,6 +129,9 @@
 >
 > All three agree, and all three match the badge.
 >
+> ### Resolution
+> No discrepancy exists. The badge, the API, and the abbreviated "1.1k" profile figure are all reporting the same live follower count. No code or content change was made, since there was nothing to fix — this was a misreading of GitHub's number formatting, not a bug in the badge, the API, or this README.
+>
 
 
 
