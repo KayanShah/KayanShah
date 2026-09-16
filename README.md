@@ -8,7 +8,7 @@
 
 
 
-<p></a> <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=007ec6&style=flat" alt="Visitor Count" /> <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-007ec6?style=flat&logo=icloud&logoColor=white" /></a> <img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&_color=007ec6&v=16092026" /> <img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&_color=007ec6&v=16092026" /> <img src="https://gh-follower-badge.vercel.app/api/stars?_username=KayanShah&_color=007ec6&v=14092026" /></p>
+<p></a> <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=007ec6&style=flat" alt="Visitor Count" /> <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-007ec6?style=flat&logo=icloud&logoColor=white" /></a> <img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&_color=007ec6&v=16092026" /> <img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&_color=007ec6&v=16092026" /> <img src="https://gh-follower-badge.vercel.app/api/stars?_username=KayanShah&_color=007ec6&v=16092026" /></p>
 
 
 ---
