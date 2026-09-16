@@ -159,6 +159,9 @@
 > - [`scripts/bump-cache.mjs`](https://github.com/KayanShah/KayanShah/blob/main/scripts/bump-cache.mjs) — a dependency-free Node script that rewrites every `t=`/`v=` date on the stat-card and badge URLs in `README.md`, and moves the `(Current)` marker in the cache refresh history log onto a fresh dated line. Idempotent — a same-day re-run is a no-op — and takes an optional `--date DD/MM/YYYY` for backfills.
 > - [`.github/workflows/refresh-cache.yml`](https://github.com/KayanShah/KayanShah/blob/main/.github/workflows/refresh-cache.yml) — runs that script every Monday at 06:17 UTC (plus manual `workflow_dispatch`), and only commits `README.md` if the script actually changed something.
 >
+> ### Maintenance
+> Workflow commits land as `github-actions[bot]` via the default `GITHUB_TOKEN`, so they don't count toward the profile contribution graph — an accepted trade-off, since the goal was removing the manual chore, not commit credit. To force a bump between scheduled runs, trigger the workflow manually from the Actions tab, or run `node scripts/bump-cache.mjs` locally.
+>
 
 
 
