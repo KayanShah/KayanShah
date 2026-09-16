@@ -154,6 +154,11 @@
 > ### Cause
 > #1's fix was a mitigation, not automation. Its Maintenance note just said to bump the value "roughly once a week in practice," with nothing in the repo actually enforcing that cadence — it relied entirely on a human noticing staleness and running through every URL by hand.
 >
+> ### Resolution
+> Built two things to remove the manual step:
+> - [`scripts/bump-cache.mjs`](https://github.com/KayanShah/KayanShah/blob/main/scripts/bump-cache.mjs) — a dependency-free Node script that rewrites every `t=`/`v=` date on the stat-card and badge URLs in `README.md`, and moves the `(Current)` marker in the cache refresh history log onto a fresh dated line. Idempotent — a same-day re-run is a no-op — and takes an optional `--date DD/MM/YYYY` for backfills.
+> - [`.github/workflows/refresh-cache.yml`](https://github.com/KayanShah/KayanShah/blob/main/.github/workflows/refresh-cache.yml) — runs that script every Monday at 06:17 UTC (plus manual `workflow_dispatch`), and only commits `README.md` if the script actually changed something.
+>
 
 
 
