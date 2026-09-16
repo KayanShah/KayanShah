@@ -106,7 +106,7 @@
 ---
 
 
-> [!IMPORTANT]
+> [!NOTE]
 > **Issue #5 — Follower Count Badge Showing Wrong Number** · [View issue](https://github.com/KayanShah/KayanShah/issues/5)
 >
 > **Status:** Resolved
