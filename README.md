@@ -133,7 +133,7 @@ I'm **Kayan Shah** – a student engineer and programmer based in London. I buil
   &nbsp;
   
   <a href="https://github.com/KayanShah/File-Share">
-    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=KayanShah&repo=File-Share&theme=nord&bg_color=0F3460&hide_border=true" alt="File-Share repo card" />
+    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=KayanShah&repo=File-Share&theme=nord&bg_color=0F3460&hide_border=true&t=16092026" alt="File-Share repo card" />
   </a>
 </p>
 
