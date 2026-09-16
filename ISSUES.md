@@ -97,6 +97,9 @@
 >
 > There is no code or configuration fix available from this repo. The only way back onto the list is to make some of the active private repos public — their existing commit history becomes public retroactively, as far back as the rolling window still covers — or shift more commits into already-public repos.
 >
+> ### Closing statement
+> Closed 2026-09-16, diagnosed and documented — not a bug. The badge is accurately reporting what a third-party viewer can see; the gap is a direct, verified consequence of ~55% of this past year's contributions sitting in private repositories, not a fault in committers.top, the badge worker, or this README. No changes were made to this repository as a result, since there is nothing here to fix. Full working (self-vs-third-party GraphQL comparison, cutoff table, production-binary re-run) is posted on the [GitHub issue](https://github.com/KayanShah/KayanShah/issues/4). Revisit if any of the active private repos are made public and the badge should be rechecked.
+>
 
 
 
