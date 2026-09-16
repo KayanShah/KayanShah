@@ -63,7 +63,7 @@
 ---
 
 
-> [!IMPORTANT]
+> [!NOTE]
 > **Issue #4 — committers.top UK Badge Showing Unranked** · [View issue](https://github.com/KayanShah/KayanShah/issues/4)
 >
 > **Status:** Resolved
