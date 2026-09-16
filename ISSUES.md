@@ -103,5 +103,20 @@
 >
 
 
+---
+
+
+> [!IMPORTANT]
+> **Issue #5 — Follower Count Badge Showing Wrong Number** · [View issue](https://github.com/KayanShah/KayanShah/issues/5)
+>
+> **Status:** Open- Investigating
+> **Opened:** 2026-09-16
+> **Link:** [KayanShah/KayanShah#5](https://github.com/KayanShah/KayanShah/issues/5)
+>
+> ### Problem
+> The "Thank you for X followers" badge on the README and the follower count shown on the GitHub profile appeared to disagree — the profile displayed "1.1k followers" while the badge and every direct API check showed 1,053, which looked like the badge was undercounting.
+>
+
+
 
 
