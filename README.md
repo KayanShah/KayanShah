@@ -159,7 +159,7 @@ Make sure to check out our [Habs Gliders Repositories](https://github.com/habs-g
 *Thanks for visiting – check out my public repos below. Much more to come!*
 
 <p align="center">
-  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=KayanShah&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area=true&area_color=61778f&hide_border=true&t=14092026" width="50%" alt="KayanShah's contribution activity graph"/>
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=KayanShah&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area=true&area_color=61778f&hide_border=true&t=16092026" width="50%" alt="KayanShah's contribution activity graph"/>
 </p>
 
 <p align="center">
