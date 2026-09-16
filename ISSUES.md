@@ -60,5 +60,20 @@
 >
 
 
+---
+
+
+> [!IMPORTANT]
+> **Issue #4 — committers.top UK Badge Showing Unranked** · [View issue](https://github.com/KayanShah/KayanShah/issues/4)
+>
+> **Status:** Open- Investigating
+> **Opened:** 2026-09-16
+> **Link:** [KayanShah/KayanShah#4](https://github.com/KayanShah/KayanShah/issues/4)
+>
+> ### Problem
+> [`https://user-badge.committers.top/uk/KayanShah.svg`](https://user-badge.committers.top/uk/KayanShah.svg) shows "unranked (public commits)" for the UK list. Ranked in the top 256 for about 3 months, then dropped off roughly a month ago. Followers (1,053) and location ("England") both comfortably clear the list's current requirements, so the drop isn't due to either of those.
+>
+
+
 
 
