@@ -144,8 +144,9 @@
 > [!IMPORTANT]
 > **Issue #6 — Cache-Busting Date Not Refreshing Automatically** · [View issue](https://github.com/KayanShah/KayanShah/issues/6)
 >
-> **Status:** Open- Investigating
+> **Status:** Resolved
 > **Opened:** 2026-09-16
+> **Closed:** 2026-09-16
 > **Link:** [KayanShah/KayanShah#6](https://github.com/KayanShah/KayanShah/issues/6)
 >
 > ### Problem
