@@ -8,7 +8,18 @@
 
 
 
-<p>  <a href="https://committers.top/uk#KayanShah"><img src="https://user-badge.committers.top/uk/KayanShah.svg" alt="committers.top badge" />   </a> <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=007ec6&style=flat" alt="Visitor Count" /> <a href="mailto:hi@kayanshah.com"><img src="https://img.shields.io/badge/Email-007ec6?style=flat&logo=icloud&logoColor=white" /></a> <img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&_color=007ec6&v=28092026" /> <img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&_color=007ec6&v=28092026" /> <img src="https://gh-follower-badge.vercel.app/api/stars?_username=KayanShah&_color=007ec6&v=28092026" /></p>
+<p>
+  <a href="https://committers.top/uk#KayanShah">
+    <img src="https://user-badge.committers.top/uk/KayanShah.svg" alt="Committers.top badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=KayanShah&label=Profile+Views&color=007ec6&style=flat" alt="Profile Views" />
+  <a href="mailto:hi@kayanshah.com">
+    <img src="https://img.shields.io/badge/Email-007ec6?style=flat&logo=icloud&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&_color=007ec6&v=28092026" alt="Thank you" />
+  <img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&_color=007ec6&v=28092026" alt="Follower goal" />
+  <img src="https://gh-follower-badge.vercel.app/api/stars?_username=KayanShah&_color=007ec6&v=28092026" alt="GitHub stars" />
+</p>
 
 
 ---
