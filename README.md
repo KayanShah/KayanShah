@@ -16,9 +16,9 @@
   <a href="mailto:hi@kayanshah.com">
     <img src="https://img.shields.io/badge/Email-007ec6?style=flat&logo=icloud&logoColor=white" alt="Email" />
   </a>
-  <img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&_color=007ec6&v=28092026" alt="Thank you" />
-  <img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&_color=007ec6&v=28092026" alt="Follower goal" />
-  <img src="https://gh-follower-badge.vercel.app/api/stars?_username=KayanShah&_color=007ec6&v=28092026" alt="GitHub stars" />
+  <img src="https://gh-follower-badge.vercel.app/api/thank-you?_username=KayanShah&_color=007ec6&v=01102026" alt="Thank you" />
+  <img src="https://gh-follower-badge.vercel.app/api/goal?_username=KayanShah&_color=007ec6&v=01102026" alt="Follower goal" />
+  <img src="https://gh-follower-badge.vercel.app/api/stars?_username=KayanShah&_color=007ec6&v=01102026" alt="GitHub stars" />
 </p>
 
 
@@ -37,13 +37,13 @@ I'm **Kayan Shah** – a student engineer and programmer based in London. I buil
 
 <p align="center">
   <!-- <img src="https://githubcard.com/KayanShah.svg?d=TSbmwzw5" alt="GitHub Streak" height="99.4px" /> -->
-  <img src="https://github-readme-streak-stats-kayan.vercel.app?user=KayanShah&theme=nord&hide_border=true&t=28092026" height="99.4px" alt="KayanShah's GitHub streak stats" />
+  <img src="https://github-readme-streak-stats-kayan.vercel.app?user=KayanShah&theme=nord&hide_border=true&t=01102026" height="99.4px" alt="KayanShah's GitHub streak stats" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark&t=28092026" width="20%" alt="KayanShah's GitHub stats summary" />
+  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/stats?username=KayanShah&theme=nord_dark&t=01102026" width="20%" alt="KayanShah's GitHub stats summary" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark&t=28092026" width="20%" alt="KayanShah's most-used languages" />
+  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/most-commit-language?username=KayanShah&theme=nord_dark&t=01102026" width="20%" alt="KayanShah's most-used languages" />
   
-  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0&t=28092026" width="20%" alt="KayanShah's most productive time of day" />
+  <img src="https://github-profile-summary-cards-kayan.vercel.app/api/cards/productive-time?username=KayanShah&theme=nord_dark&utcOffset=0&t=01102026" width="20%" alt="KayanShah's most productive time of day" />
 </p>
 
 ---
@@ -139,12 +139,12 @@ I'm **Kayan Shah** – a student engineer and programmer based in London. I buil
 
 <p align="center">
   <a href="https://github.com/KayanShah/PLFantasyBot2026-27">
-    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=KayanShah&repo=PLFantasyBot2026-27&theme=nord&bg_color=0F3460&hide_border=true&t=28092026" alt="PLFantasyBot2026-27 repo card" />
+    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=KayanShah&repo=PLFantasyBot2026-27&theme=nord&bg_color=0F3460&hide_border=true&t=01102026" alt="PLFantasyBot2026-27 repo card" />
   </a>
   &nbsp;
   
   <a href="https://github.com/KayanShah/File-Share">
-    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=KayanShah&repo=File-Share&theme=nord&bg_color=0F3460&hide_border=true&t=28092026" alt="File-Share repo card" />
+    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/pin/?username=KayanShah&repo=File-Share&theme=nord&bg_color=0F3460&hide_border=true&t=01102026" alt="File-Share repo card" />
   </a>
 </p>
 
@@ -170,15 +170,15 @@ Make sure to check out our [Habs Gliders Repositories](https://github.com/habs-g
 *Thanks for visiting – check out my public repos below. Much more to come!*
 
 <p align="center">
-  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=KayanShah&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area=true&area_color=61778f&hide_border=true&t=28092026" width="50%" alt="KayanShah's contribution activity graph"/>
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=KayanShah&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area=true&area_color=61778f&hide_border=true&t=01102026" width="50%" alt="KayanShah's contribution activity graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=KayanShah&theme=monokai&no-frame=false&no-bg=false&margin-w=4&t=28092026" width="50%" alt="KayanShah's GitHub trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=KayanShah&theme=monokai&no-frame=false&no-bg=false&margin-w=4&t=01102026" width="50%" alt="KayanShah's GitHub trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah?t=28092026" alt="KayanShah's GitHub chart" width="50%"/>
+  <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah?t=01102026" alt="KayanShah's GitHub chart" width="50%"/>
 </p>
 
 <details>
@@ -232,5 +232,6 @@ Format: [DD/MM/YY] -> Dynamic Parameter String
 - [16/09/26] -> v=16092026 / t=16092026
 - [21/09/26] -> v=21092026 / t=21092026
 - [25/09/26] -> v=25092026 / t=25092026
-- [28/09/26] -> v=28092026 / t=28092026   (Current)
+- [28/09/26] -> v=28092026 / t=28092026
+- [01/10/26] -> v=01102026 / t=01102026   (Current)
 ************************************************************ -->
