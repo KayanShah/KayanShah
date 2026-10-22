@@ -152,12 +152,13 @@ I'm **Kayan Shah** – a student engineer and programmer based in London. I buil
 
 ## 2026 Goals
 - [ ] Continue contributing to **open source**
-- [ ] Reach **Greenpower International Finals 2026** — back‑to‑back
 - [ ] Ship a public project with **20+ stars**
 - [x] Reach **[1,000 GitHub followers](https://github.com/kayanshah)**
 - [x] Win a **[judged award at VEX World Championships](https://habs-gliders-34071b.vercel.app)** *(Won the Judges Award at VEX Worlds 2026)*
 - [x] Create and deploy a **[portfolio website](https://www.kayanshah.com/)**
 - [x] Become a **[top 256 GitHub committer in the UK](https://committers.top/uk#KayanShah)** (Requires 350 followers)
+- ~~Reach **Greenpower International Finals 2026** — back‑to‑back~~
+
 
 ---
 
