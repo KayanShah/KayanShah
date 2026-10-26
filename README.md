@@ -152,7 +152,7 @@ I'm **Kayan Shah** – a student engineer and programmer based in London. I buil
 
 ## 2026 Goals
 - [ ] Continue contributing to **open source**
-- [ ] Ship a public project with **20+ stars**
+- [ ] Ship a public project with **20+ stars** *[please star File-Share](https://github.com/KayanShah/File-Share)*
 - [x] Reach **[1,000 GitHub followers](https://github.com/kayanshah)**
 - [x] Win a **[judged award at VEX World Championships](https://habs-gliders-34071b.vercel.app)** *(Won the Judges Award at VEX Worlds 2026)*
 - [x] Create and deploy a **[portfolio website](https://www.kayanshah.com/)**
