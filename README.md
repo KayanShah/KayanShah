@@ -182,6 +182,10 @@ Make sure to check out our [Habs Gliders Repositories](https://github.com/habs-g
   <img src="https://kayan-github-chart-api.onrender.com/80a1c1/KayanShah?t=26102026" alt="KayanShah's GitHub chart" width="50%"/>
 </p>
 
+<p align="center">
+  <img src="https://ghcommits.com/api/badge/KayanShah.svg" alt="GitHub Commit Rank" />
+</p>
+
 <details>
   <summary><i style="color:#2e3440">Want to use any of the dynamic tools in your README?</i></summary>
   
@@ -195,6 +199,7 @@ Make sure to check out our [Habs Gliders Repositories](https://github.com/habs-g
   - ⭐ [Stars Badge](https://gh-follower-badge.vercel.app/api/stars?_username=YOUR_USERNAME) — Total stars across all repos
 
 </details>
+
 
 
 <!-- ************************
