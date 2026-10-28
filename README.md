@@ -186,6 +186,10 @@ Make sure to check out our [Habs Gliders Repositories](https://github.com/habs-g
   <img src="https://ghcommits.com/api/badge/KayanShah.svg" alt="GitHub Commit Rank" />
 </p>
 
+<p align="center">
+  <img src="https://status.kayanshah.com/api/widget/badge?all=1&r=14" alt="System status" />
+</p>
+
 <details>
   <summary><i style="color:#2e3440">Want to use any of the dynamic tools in your README?</i></summary>
   
